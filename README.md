@@ -11,6 +11,10 @@ To get a new image of the insect, use a.p
 To ask for a hint, use a.h and specify if you want the number of letters, the first letter, or the last letter
 To ask for the list avaliable in the bot, use a.l 
 
+# Inviting
+
+Invite the bot through this URL: https://rb.gy/3kw551
+
 # Licencing
 
 I have attached my licencing rights for this repository. I strongly advice you don't forge or replicate the code or I will press charges on you. This code is ONLY for referencing, not for mallicious purposes
