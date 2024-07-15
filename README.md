@@ -5,10 +5,15 @@ It consists of picture identification of different stars where when you run an i
 
 ## Manual
 To ask for an image, type a.i 
+
 To answer, type a.a [insert answer here]. Make sure to add dashes between spaces 
+
 To skip, type a.s
+
 To get a new image of the insect, use a.p 
+
 To ask for a hint, use a.h and specify if you want the number of letters, the first letter, or the last letter
+
 To ask for the list available in the bot, use a.l 
 
 ## Inviting
