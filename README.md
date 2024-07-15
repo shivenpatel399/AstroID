@@ -18,7 +18,7 @@ To ask for the list available in the bot, use a.l
 
 ## Inviting
 
-Invite the bot through this URL: https://rb.gy/3kw551
+Invite the bot through this URL: https://rb.gy/8fdb7z
 
 ## Turning On the Bot
 
