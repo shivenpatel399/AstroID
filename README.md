@@ -20,7 +20,7 @@ To ask for the list available in the bot, use a.l
 
 Invite the bot through this URL: https://rb.gy/3kw551
 
-# Turning On the Bot
+## Turning On the Bot
 
 DM @shivpat._. on discord if you want me to turn on the bot. It will take about 1-2 minutes to turn it on.
 
