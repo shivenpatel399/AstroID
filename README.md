@@ -3,7 +3,7 @@
 This is a bot created to identify different stars for the Science Olympiad Event, Astronomy.
 It consists of picture identification of different stars where when you run an image command, it outputs an image and you have to guess what star it is.
 
-# Manual
+## Manual
 To ask for an image, type a.i 
 To answer, type a.a [insert answer here]. Make sure to add dashes between spaces 
 To skip, type a.s
@@ -11,9 +11,13 @@ To get a new image of the insect, use a.p
 To ask for a hint, use a.h and specify if you want the number of letters, the first letter, or the last letter
 To ask for the list available in the bot, use a.l 
 
-# Inviting
+## Inviting
 
 Invite the bot through this URL: https://rb.gy/3kw551
 
+# Turning On the Bot
 
-# Have Fun!
+DM @shivpat._. on discord if you want me to turn on the bot. It will take about 1-2 minutes to turn it on.
+
+
+## Have Fun!
