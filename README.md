@@ -24,5 +24,10 @@ Invite the bot through this URL: https://rb.gy/3kw551
 
 DM @shivpat._. on discord if you want me to turn on the bot. It will take about 1-2 minutes to turn it on.
 
+## Some of my other creations
+
+Here is a list of my other bots that I have created:
+**EntoID:** :
+**EpidemicBot** : 
 
 ## Have Fun!
