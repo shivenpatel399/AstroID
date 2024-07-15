@@ -1,4 +1,4 @@
-# ASTRO ID BOT
+# Astro ID Bot
 
 This is a bot created to identify different stars for the Science Olympiad Event, Astronomy.
 It consists of picture identification of different stars where when you run an image command, it outputs an image and you have to guess what star it is.
