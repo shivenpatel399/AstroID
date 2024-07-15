@@ -27,7 +27,9 @@ DM @shivpat._. on discord if you want me to turn on the bot. It will take about 
 ## Some of my other creations
 
 Here is a list of my other bots that I have created:
-**EntoID:** :
-**EpidemicBot** : 
+
+**EntoID:** : https://github.com/shivenpatel399/EntomologyID
+
+**EpidemicBot** : https://github.com/shivenpatel399/EpidemicBot
 
 ## Have Fun!
