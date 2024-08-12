@@ -16,14 +16,6 @@ To ask for a hint, use a.h and specify if you want the number of letters, the fi
 
 To ask for the list available in the bot, use a.l 
 
-## Inviting
-
-Invite the bot through this URL: https://rb.gy/8fdb7z
-
-## Turning On the Bot
-
-DM @shivpat._. on discord if you want me to turn on the bot. It will take about 1-2 minutes to turn it on.
-
 ## Some of my other creations
 
 Here is a list of my other bots that I have created:
