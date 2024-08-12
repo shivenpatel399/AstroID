@@ -24,7 +24,7 @@ Here is a list of my other bots that I have created:
 
 **EpidemicBot** : https://github.com/shivenpatel399/EpidemicBot
 
-## Updates:
+## Updates
 
 List will be updated soon
 
